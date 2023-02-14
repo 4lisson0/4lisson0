@@ -14,4 +14,4 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lisson0&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
- <img src="C:\Users\aliss\OneDrive\Documentos\Projetos\4lisson0\68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966.gif" width="200em">
+ <img src="" width="200em">
