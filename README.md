@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/3d-render-abstract-tech-background-with-flowing-cyber-lines_1048-14878.jpg?w=900&t=st=1698448001~exp=1698448601~hmac=a7cb1cfdb84d65d6d2dec5cff46b6047922bc901ce43ff100828dda18321c509"/>
+<img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg"/>
 
 ## Oi eu sou o Alisson Sebastian e estou fazendo tecnólogo em ADS e em contra partida faço estágio em IT na Volkswagen do Brasil e atualmente cursando o Programa Vem ser Tech da Ada Tech em parceria com Ifood e aqui no GitHub coloco meus projetos de estudos.
 <div align="center">
