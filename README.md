@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg"/>
+<img src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630"/>
 
 ## Oi eu sou o Alisson Sebastian e estou fazendo tecnólogo em ADS e em contra partida faço estágio em IT na Volkswagen do Brasil e atualmente cursando o Programa Vem ser Tech da Ada Tech em parceria com Ifood e aqui no GitHub coloco meus projetos de estudos.
 <div align="center">
