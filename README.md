@@ -1,15 +1,17 @@
+<img src="https://img.freepik.com/free-photo/3d-render-abstract-tech-background-with-flowing-cyber-lines_1048-14878.jpg?w=900&t=st=1698448001~exp=1698448601~hmac=a7cb1cfdb84d65d6d2dec5cff46b6047922bc901ce43ff100828dda18321c509"/>
+
 ## Oi eu sou o Alisson Sebastian e estou fazendo tecnólogo em ADS e em contra partida faço estágio em IT na Volkswagen do Brasil e atualmente cursando o Programa Vem ser Tech da Ada Tech em parceria com Ifood e aqui no GitHub coloco meus projetos de estudos.
 <div align="center">
   <div> 
   <a href="https://www.instagram.com/alissonsartorii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="150rem" height="37"></a>
   <a href="https://www.linkedin.com/in/alisson-sartori-ba3a58253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="150rem"></a> 
+  </div>
 
 #
   
-  <div>
-  <a href="[https://github.com/4lisson0](https://github.com/4lisson0)"> 
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=4lisson0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lisson0&layout=compact&langs_count=16&theme=tokyonight"/>
+  <div style="display: flex; gap: 10px">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=4lisson0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lisson0&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 #
